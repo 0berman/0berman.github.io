@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/book-review-1/bookreview1.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/gap-challenge-solver/index.html"
+    ]
+  }
+]
