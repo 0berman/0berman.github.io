@@ -1,0 +1,9 @@
+---
+title: "An Analysis of Market Trends"
+author: "Your Name"
+date: "2025-09-26"
+categories: [Quant, Finance, Python]
+description: "A deep dive into recent market trends using Python's data analysis libraries to uncover hidden patterns." # <-- ADD THIS
+image: "preview.png" # <-- ADD THIS: A preview image for this post
+freeze: true         # <-- ADD THIS: A key best practice
+---

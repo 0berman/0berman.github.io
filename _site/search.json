@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "hello"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAn Analysis of Market Trends\n\n\n\nQuant\n\nFinance\n\nPython\n\n\n\nA deep dive into recent market trends using Python’s data analysis libraries to uncover hidden patterns.\n\n\n\n\n\nSep 26, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a [Your Role] passionate about [Your Interests]. This website contains my projects, research, and writings. I am currently a student at [Your University] or working at [Your Company].\nREAD MORE →"
+  },
+  {
+    "objectID": "projects/gap-challenge-solver/index.html",
+    "href": "projects/gap-challenge-solver/index.html",
+    "title": "Gap Challenge Solver",
+    "section": "",
+    "text": "This is where you write the main content describing your project…"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Gap Challenge Solver\n\n\n\nPython\n\nComputer Vision\n\nWeb App\n\n\n\nAn interactive web tool to solve the Gap Challenge puzzle using Python and OpenCV.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello! I’m [Your Name]. This is where you can write a more detailed biography…"
+  }
+]

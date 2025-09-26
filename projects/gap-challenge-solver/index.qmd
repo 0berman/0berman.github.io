@@ -1,0 +1,9 @@
+---
+title: "Gap Challenge Solver"
+date: "2024-11-02"
+image: "some-image.png"
+description: "An interactive web tool to solve the Gap Challenge puzzle using Python and OpenCV."
+categories: [Python, Computer Vision, Web App]
+---
+
+This is where you write the main content describing your project...

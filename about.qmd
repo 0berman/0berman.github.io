@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+Hello! I'm [Your Name]. This is where you can write a more detailed biography...

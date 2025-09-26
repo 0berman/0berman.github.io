@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  
+  # --- Top Navigation Bar ---
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog/index.qmd
+        text: Blog
+      - href: projects/index.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/your-github-username # Replace
+      - icon: linkedin
+        href: https://linkedin.com/in/your-linkedin   # Replace
+
+  # --- Enable Site Search ---
+  search: true
+
+# --- Global formatting ---
+format:
+  html:
+    theme: cosmo
+    toc: true

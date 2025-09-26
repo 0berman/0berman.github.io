@@ -1,0 +1,36 @@
+---
+title: "Your Name"
+pagetitle: "Your Name"
+subtitle: "Your Field / Your Interest / Your Skill"
+image: assets/avatar.jpg # Make sure you have an avatar image here
+image-alt: "My avatar"
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    # --- Replace all links with your own ---
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/0berman
+    - icon: linkedin
+      aria-label: LinkedIn
+      href: https://www.linkedin.com/in/jordan-chong-88a02b172/
+    - icon: envelope
+      aria-label: Email
+      href: "mailto:jordanchongjian00@gmail.com"
+      
+page-layout: full
+comments: false
+---
+
+<br><br>
+
+::: {#hero-heading}
+
+I am a [Your Role] passionate about [Your Interests]. This website contains my projects, research, and writings. I am currently a student at [Your University] or working at [Your Company].
+
+[READ MORE &rarr;](/about.qmd){.about-links .subtitle}
+
+:::

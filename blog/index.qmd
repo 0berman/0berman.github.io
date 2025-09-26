@@ -1,0 +1,13 @@
+---
+title: "My Blog"
+listing:
+  contents: "posts"       # Simpler syntax for the posts directory
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  feed: true              # <-- ADD THIS: Creates an RSS feed for your blog
+  fields: [image, date, title, description, categories] # <-- ADD THIS: Customize what's shown
+page-layout: full
+---

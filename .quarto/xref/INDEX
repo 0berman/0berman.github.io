@@ -1,0 +1,23 @@
+{
+  "projects/index.qmd": {
+    "index.html": "8a948c12"
+  },
+  "index.qmd": {
+    "index.html": "dd63b862"
+  },
+  "blog/posts/book-review-1/bookreview1.qmd": {
+    "bookreview1.html": "5b1de97b"
+  },
+  "blog/index.qmd": {
+    "index.html": "96963501"
+  },
+  "about.qmd": {
+    "about.html": "60e3f55a"
+  },
+  "cv.qmd": {
+    "cv.html": "518a381a"
+  },
+  "projects/gap-challenge-solver/index.qmd": {
+    "index.html": "25407c5e"
+  }
+}
