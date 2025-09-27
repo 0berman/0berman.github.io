@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
+  title: "Jordan Chong"
   
   # --- Top Navigation Bar ---
   navbar:
@@ -16,11 +16,45 @@ website:
         text: Projects
       - href: cv.qmd
         text: CV
-    right:
+        
+
+  footer:
+  # --- LEFT SECTION ---
+  # We use a single HTML string for precise control over text and links on one line.
+    left: |
+      <span class="p-1">Based on <a href="https://rubuky.com//">Dianyi Yang's template</a>.</span>
+      <span class="p-1">Made with <a href="https://quarto.org/">Quarto</a>.</span>
+
+    # --- CENTER SECTION ---
+    # This is a list of your social icons and source links.
+    center:
       - icon: github
-        href: https://github.com/your-github-username # Replace
+        aria-label: GitHub
+        href: https://github.com/0berman # Your GitHub URL
       - icon: linkedin
-        href: https://linkedin.com/in/your-linkedin   # Replace
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/jordan-chong-88a02b172/ # Your LinkedIn URL
+      - icon: envelope
+        aria-label: Email
+        href: "mailto:jordanchongjian00@gmail.com" # Your Email
+      # Divider for visual separation
+      - text: "|"
+      - icon: github
+        text: "View source"
+        href: https://github.com/0berman/your-repo-name # URL to your site's repository
+      - icon: bug
+        text: "Report an issue"
+        href: https://github.com/0berman/your-repo-name/issues # URL to your repo's issues page
+
+    # --- RIGHT SECTION ---
+    # A simple list of text links.
+    right:
+      - text: "License"
+        href: /license.qmd # Link to your license page
+      - text: "Contact"
+        href: /contact.qmd # Link to your contact page
+
+
 
   # --- Enable Site Search ---
   search: true
