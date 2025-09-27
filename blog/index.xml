@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Your Name</title>
-<link>https://your-github-username.github.io/blog/</link>
-<atom:link href="https://your-github-username.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
-<description>A website showcasing my projects, blog, and research.</description>
+<link>https://0berman.github.io/blog/</link>
+<atom:link href="https://0berman.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Thu, 25 Sep 2025 16:00:00 GMT</lastBuildDate>
 <item>
   <title>An Analysis of Market Trends</title>
   <dc:creator>Your Name</dc:creator>
-  <link>https://your-github-username.github.io/blog/posts/book-review-1/bookreview1.html</link>
+  <link>https://0berman.github.io/blog/posts/book-review-1/bookreview1.html</link>
   <description><![CDATA[ 
 
 
@@ -27,9 +27,9 @@
   <category>Quant</category>
   <category>Finance</category>
   <category>Python</category>
-  <guid>https://your-github-username.github.io/blog/posts/book-review-1/bookreview1.html</guid>
+  <guid>https://0berman.github.io/blog/posts/book-review-1/bookreview1.html</guid>
   <pubDate>Thu, 25 Sep 2025 16:00:00 GMT</pubDate>
-  <media:content url="https://your-github-username.github.io/blog/posts/book-review-1/preview.png" medium="image" type="image/png"/>
+  <media:content url="https://0berman.github.io/blog/posts/book-review-1/preview.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>
